@@ -1,0 +1,5 @@
+name = يبليبلل
+age = 
+phon = يييييييي
+gmail = يبليب
+password = لبيليبي
