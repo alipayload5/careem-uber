@@ -1,5 +1,0 @@
-name = 1asd
-age = 55
-phon = 23156058163
-gmail = asa@gmail.com
-password = 123456489adwdwa
