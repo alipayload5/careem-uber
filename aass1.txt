@@ -1,0 +1,5 @@
+name = aass1
+age = 11
+phon = 222222221
+gmail = asdsad@dsaf
+password = 2132qweeq
