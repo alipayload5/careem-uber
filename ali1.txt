@@ -1,0 +1,5 @@
+name = ali1
+age = 22
+phon = 0202202
+gmail = ali01113925818@gmail.com
+password = 01123445677ali
