@@ -1,0 +1,5 @@
+name = ahmed
+age = d
+phon = ';
+gmail = alia@
+password = f'fkqw'
