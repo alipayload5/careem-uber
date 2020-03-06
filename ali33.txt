@@ -1,0 +1,5 @@
+name = ali33
+age = sadsad
+phon = sadsadas
+gmail = aaaaaaa
+password = sadsad
